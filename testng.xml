@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing">
+	<test name ="UserCredentials">
+		<classes>
+			<class name = "com.forio.UserLogin.Userlogin">
+			</class>
+		</classes>
+	</test>
+	
+</suite>
