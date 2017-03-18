@@ -2,8 +2,6 @@
 
 Build and Run:
 
-Download the attached zip file.
-Extract the downloaded zip file.
 Open Eclipse IDE and click on File -> Import
 Type Maven in the search box under Select an import source:
 Select Existing Maven Projects and click Next.
